@@ -1,6 +1,6 @@
 
 ## ___Sobre Minha Pessoa.___
-### _Eae, beleza? sou o Shadow um Gamer e Desenvolvedor de jogos e Programas._
+ _Eae, beleza? sou o Shadow um Gamer e Desenvolvedor de jogos e Programas, gosto e adoro jogar Visuals Novels e jogos de suspense_
 <br/>
 
 ### **Minhas Redes Sociais.** 
