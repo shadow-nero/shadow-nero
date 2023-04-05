@@ -3,13 +3,11 @@
 ### _Eae, beleza? sou o Shadow um Gamer e Desenvolvedor de jogos e Programas._
 <br/>
 
-### **Minhas Redes Sociais.**
-
-### 
+### **Minhas Redes Sociais.** 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](httpps://discord.com)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://rediit)
-[![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](stackoverflow)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://rediit)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](stackoverflow)
 
 <div><br/>
     <img height="43%" src="https://github-readme-stats.vercel.app/api?username=shadow-nero&show_icons=true&theme=radical&include_allcomitts=true&cout_private=true"/>
