@@ -19,7 +19,7 @@
 </div><br/>
 
 
-## **Minhas Linguagens de programação que eu uso**
+## **Linguagens de Programação que eu uso**
 <br/>
 
 <div style="display: incline_block"><br/>
