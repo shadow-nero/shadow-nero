@@ -11,7 +11,7 @@
 
 <div><br/>
     <img height="43%" src="https://github-readme-stats.vercel.app/api?username=shadow-nero&show_icons=true&theme=radical&include_allcomitts=true&cout_private=true"/>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-nero&layout=compact&langs_count=16&theme=radical"/>
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-nero&layout=compact&theme=radical"/>
 </div><br/>
 
 <div>
