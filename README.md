@@ -36,7 +36,8 @@ Sou uma pessoa apaixonada com Programação e Engenharia Reversa
 
 ## Meus Projetos atuais:
 
-- [Projeto de tradução do Extra]() - Estou sozinho no Projeto atualmente. <br/>
-- [Pacote de Texturas do Extra (EN)]() - Ajudo o D3TR4KT1K<br/>
-- [Pacote de Textura do Extra(PT-BR)]() - Pacote de Textura em Portugues<br/>
+- [Projeto de tradução do Extra](https://github.com/shadow-nero/Extra-Texts) - Estou sozinho no Projeto atualmente. 
+- [Pacote de Texturas do Extra (EN)](https://github.com/Fate-AI-HD-Team/Fate-Extra-HD) - Ajudo o [D3TR4KT1K](https://github.com/D3TR4KT1K)
+- [Pacote de Textura do Extra(PT-BR)](https://github.com/shadow-nero/Fate-Extra-HD-BR) - Pacote de Textura em Portugues
 
+[Discord](https://discordapp.com/users/611263474756223013)
